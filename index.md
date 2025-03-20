@@ -9,3 +9,6 @@ Added headers
 ```
 String CodeSnippet = "Hello World";
 ```
+- [ ] Unchecked box 1
+- [X] Checked box 2
+  
